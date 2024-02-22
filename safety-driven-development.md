@@ -1,6 +1,6 @@
 # safety-driven-development
 
-### 2024-02-22 12:40 - why not just make all of the things safe?
+### 2024-02-22 00:40 - why not just make all of the things safe?
 
 if I have a piece of code that does something "unsafe" -- then what I want to do is to make an abstraction that makes it safe, and ensures that the thing is being used properly. so for example, let's say I have a thing that creates a context:
 
